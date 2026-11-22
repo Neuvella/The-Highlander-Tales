@@ -1,0 +1,6 @@
+yt-dlp  --embed-metadata --embed-thumbnail -x --audio-quality 0 --paths /run/media/neuvella/'Neuveller Alps'/'The Highlander Tale of Righteousness'/game/audio/bgm/
+
+Asagi Archive
+
+Paradise Lost
+

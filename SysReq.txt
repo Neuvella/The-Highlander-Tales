@@ -1,0 +1,23 @@
+The Tales of Highlander
+
+Minimum System Requirements
+Requires 64 Bit CPU and OS
+OS: Windows 7, 8.1, 10, and 11. Linux 6.0+
+CPU: Intel Core i3 2100, equivalent or higher
+GPU: Intel HD Graphics 2000, equivalent or higher
+RAM: 1GB
+Storage: 1GB Free
+DirectX: 9.0+
+OpenGL: 2.0+
+Additional Notes: mac support will be available in the future.
+
+Recommended System Requirements
+Requires 64 Bit CPU and OS
+OS: Windows 10, and 11. Linux 7.0+
+CPU: Intel Core i3 4130, equivalent or higher
+GPU: Intel HD Graphics 4400, equivalent or higher
+RAM: 2GB
+Storage: 1GB Free
+DirectX: 11.0+
+OpenGL: 2.0+
+Additional Notes: mac support will be available in the future.

@@ -1,0 +1,9 @@
+chloe: 915b37 - 965e38
+hotaru: 602b2b - 552121
+yui: 72518b - 583870
+izumi: 547192 -3c5978
+mirai: a4a4a4 - 636363
+nozomi: 43763f - 30622c
+hikari: 43763f -30622c
+
+232323
