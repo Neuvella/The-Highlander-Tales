@@ -255,9 +255,9 @@ __marimo__/
 
 # Cache
 tmp/
-#log.txt
-#traceback.txt
-#errors.txt
+log.txt
+traceback.txt
+errors.txt
 
 # OS Clutter
 .DS_Store
